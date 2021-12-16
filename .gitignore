@@ -1,10 +1,7 @@
 # Mac-specific directory that no other operating system needs.
 .DS_Store
-script
 logs
 nohupout.log
-img_feature
 **/__pycache__
 db.sqlite3
-extract_frame
-data
+
